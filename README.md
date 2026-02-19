@@ -36,7 +36,7 @@ Sistema web para processamento e validação de arquivos XML de Notas Fiscais de
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/verificador-xml-nfce.git
+git clone https://github.com/ThiagoEndrigo/verificador-xml-nfce.git
 
 # Entre no diretório
 cd verificador-xml-nfce
